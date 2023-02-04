@@ -63,8 +63,7 @@
 <details>
 <summary>Backend</summary>
   <ul>
-    <li><a href="https://github.com/Ol-create/hello_rails_react_backend.git
-cd hello-rails-back-end">React Backend Repository</a></li>
+    <li><a href="https://github.com/Ol-create/hello_rails_react_backend.git">React Backend Repository</a></li>
   </ul>
 </details>
 
